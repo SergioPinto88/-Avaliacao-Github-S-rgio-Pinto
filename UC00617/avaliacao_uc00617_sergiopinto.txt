@@ -1,0 +1,75 @@
+                                       Ficha Avaliação UC00617 – Utilizar serviços Git e GitHub 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sérgio Jorge Duarte Pinto                                                                Data: 18/03/2026 
+
+ 
+
+ 
+
+1.  A resposta correta é a c) Uma plataforma de alojamento de repositórios. 
+
+ 
+
+2. A resposta correta é a b) Gerir versões de ficheiros de um projeto. 
+
+ 
+
+3. 
+
+3.1 Um repositório é o espaço onde armazeno todos os ficheiros do meu projeto e o seu histórico de alterações. 
+
+3.2 Um commit é um ponto de gravação que regista as alterações feitas no código com uma mensagem explicativa. 
+
+ 
+
+4. 
+
+4.1) Falsa. O Git é uma ferramenta de controlo de versões que instalamos no computador, enquanto o GitHub é a plataforma online. 
+
+4.2) Verdadeira. A principal função do GitHub é precisamente alojar e salvaguardar os repositórios na nuvem (remotamente) 
+
+4.3) Verdadeira. Posso ter um repositório Git apenas no meu computador para gerir o meu histórico de código sem nunca o enviar para a internet. 
+
+4.4) Falsa. O GitHub não substitui o Git; na verdade, o GitHub utiliza o Git como base para funcionar e permitir a colaboração entre programadores. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5. 
+
+ 
+
+5.1) Crio um repositório diretamente no site do GitHub (clicando no botão "+" e em "New repository") ou localmente no meu computador através do comando (git init). 
+
+ 
+
+5.2) A função do commit é gravar as alterações que fiz nos ficheiros, criando um ponto de histórico com uma mensagem explicativa sobre o que mudei. 
+
+ 
+
+5.3) Quando faço "Fetch", o Git descarrega as novidades do repositório remoto para o meu computador, mas não as junta com o meu trabalho atual; serve apenas para eu ver o que foi alterado por outros. 
+
+ 
+
+5.4) Ao fazer "Pull", eu descarrego as alterações do repositório remoto e atualizo automaticamente o meu código local com essas mudanças. 
+
+ 
+
+5.5) Um Pull Request é o pedido que eu faço para que o meu código seja revisto e aceite no projeto principal, permitindo que outros colaboradores vejam as minhas alterações antes de serem integradas. 
+
+ 
+
+5.6) Quando faço "merge", estou a fundir ou juntar duas linhas de trabalho (branches) diferentes numa só, combinando todas as alterações de forma definitiva. 
